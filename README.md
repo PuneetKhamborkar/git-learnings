@@ -1,2 +1,2 @@
 # git-learnings
-A repo for Git Learnings
+A repo for Git learnings.
